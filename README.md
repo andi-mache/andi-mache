@@ -16,9 +16,11 @@
   </a>
 </div>
 
-![Andi's GitHub stats](https://github-readme-stats.vercel.app/api?username=andi-mache&show_icons=true&theme=radical)
+![Andi's GitHub stats](https://github-readme-stats.vercel.app/api?username=andi-mache&show_icons=true&theme=chartreuse-dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andi-mache&layout=donut)](https://github.com/andimache/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andi-mache&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andi-mache&layout=donut)(https://github.com/andimache/github-readme-stats)
 
 [![Andi's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andi-mache)](https://github.com/andi-mache/github-readme-stats)
 <!--
