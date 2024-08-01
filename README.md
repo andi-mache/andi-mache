@@ -19,6 +19,8 @@
 ![Andi's GitHub stats](https://github-readme-stats.vercel.app/api?username=andi-mache&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andi-mache&layout=donut)](https://github.com/andimache/github-readme-stats)
+
+[![Andi's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andi-mache)](https://github.com/andi-mache/github-readme-stats)
 <!--
 **andi-mache/andi-mache** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
