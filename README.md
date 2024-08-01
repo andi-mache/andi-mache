@@ -16,11 +16,11 @@
   </a>
 </div>
 
-![Andi's GitHub stats](https://github-readme-stats.vercel.app/api?username=andi-mache&show_icons=true&theme=chartreuse-dark)
+![andi-mache's Stats](https://github-readme-stats.vercel.app/api?username=andi-mache&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andi-mache&theme=dark&background=000000)](https://git.io/streak-stats)
+![andi-mache's Streak](https://github-readme-streak-stats.herokuapp.com/?user=andi-mache&theme=chartreuse-dark&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andi-mache&layout=donut-vertical)](https://github.com/andi-mache/github-readme-stats)
+![andi-mache's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andi-mache&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact)
 
 <!--
 **andi-mache/andi-mache** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
