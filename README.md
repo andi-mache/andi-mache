@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<div id="header" >
+  <img src="./github-header-image(1).png" width="100"/>
+</div>
+
 ---
 
 ![Header](./github-header-image(1).png)
