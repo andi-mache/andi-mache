@@ -42,7 +42,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=andi-mache&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
-
+![](https://github-trophies.vercel.app/?username=andi-mache)
 
 
 ### 🔝 Top Contributed Repo
