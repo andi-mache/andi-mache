@@ -25,7 +25,7 @@
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/andi-is-my-name) 
 
   
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1449987" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/andi.calypso.png" alt="Your Image Badge" />
 
 ---
 # 💻 Tech Stack:
