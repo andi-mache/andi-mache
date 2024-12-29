@@ -44,6 +44,10 @@
 ![](https://github-profile-trophy.vercel.app/?username=andi-mache&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
 
 
+## learning 
+
+[![roadmap.sh](https://roadmap.sh/card/tall/677139e570129741a8eb0479?variant=dark&roadmaps=linux%2Ccomputer-science%2Cbackend)](https://roadmap.sh)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=andi-mache&limit=6&theme=merko&combine_all_yearly_contributions=true)
