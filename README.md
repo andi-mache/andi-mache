@@ -3,9 +3,7 @@
 
 
 ---
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=+Hi+there+%F0%9F%91%8B;remember+to+have+fun)](https://git.io/typing-svg) <div id="header" align="right">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=+Hi+there+%F0%9F%91%8B;remember+to+have+fun)](https://git.io/typing-svg) 
 
 ---
 
@@ -20,9 +18,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adrian-mache-8209b3226)
-
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/andi-is-my-name) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adrian-mache-8209b3226) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/andi-is-my-name) 
 
   
 <img src="https://tryhackme-badges.s3.amazonaws.com/andi.calypso.png" alt="Your Image Badge" />
