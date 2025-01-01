@@ -43,7 +43,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=andi-mache&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
 
-
+## wakastats
+[![Andis's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andi-mache)](https://github.com/anuraghazra/github-readme-stats)
 ## learning 
 
 [![roadmap.sh](https://roadmap.sh/card/tall/677139e570129741a8eb0479?variant=dark&roadmaps=linux%2Ccomputer-science%2Cbackend)](https://roadmap.sh)
