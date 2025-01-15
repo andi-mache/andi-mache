@@ -1,6 +1,6 @@
-
-![github-header-image(1)](https://github.com/user-attachments/assets/e5becc7d-f7ab-47a7-bb82-7ae5cf7a0f38)
-
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Chijioke+Okorji!;" />
+</h1>
 
 ---
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=+Hi+there+%F0%9F%91%8B;remember+to+have+fun)](https://git.io/typing-svg) 
