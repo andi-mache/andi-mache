@@ -1,12 +1,13 @@
+
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/andi-mache/count.svg" alt="Visitor's Count" />
+</div>
+
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Chijioke+Okorji!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Adrian+Mache!;" />
 </h1>
-
----
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=+Hi+there+%F0%9F%91%8B;remember+to+have+fun)](https://git.io/typing-svg) 
-
----
-
+------
 
 # 💫 About Me:
 👋 Hey there! I'm Adrian, a computer science student fueled by an insatiable love for all things tech! 🚀
