@@ -29,7 +29,7 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=andi-mache&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)![](https://github-readme-streak-stats.herokuapp.com/?user=andi-mache&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=andi-mache&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=andi-mache&theme=midnight-purple&hide_border=false)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=andi-mache&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=donut-vertical)
 
