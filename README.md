@@ -21,7 +21,7 @@
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adrian-mache-8209b3226) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adrian-mache) 
   
 <img src="https://tryhackme-badges.s3.amazonaws.com/0xK405.png" alt="Your Image Badge" />
 
@@ -44,13 +44,13 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=andi-mache&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=andi-mache&theme=github_dark&no-frame=false&no-bg=false&margin-w=4)
 
 ----------
 
 ## wakastats
 
-[![Andis's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andi)](https://github.com/anuraghazra/github-readme-stats)
+[![Andis's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andi&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ----------
 
