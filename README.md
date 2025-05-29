@@ -1,5 +1,5 @@
 
-https://pixel-profile-ui.vercel.app/api/github-stats?username=imhalid&screen_effect=true&include_all_commits=true&pixelate_avatar=true&background=linear-gradient%28120deg%2C+%23165a4cFF+8%25%2C+%23e83b3bFF+100%25%29+&color=%23ffffffFF
+![](https://pixel-profile-ui.vercel.app/api/github-stats?username=imhalid&screen_effect=true&include_all_commits=true&pixelate_avatar=true&background=linear-gradient%28120deg%2C+%23165a4cFF+8%25%2C+%23e83b3bFF+100%25%29+&color=%23ffffffFF)
 
 ----------
 
