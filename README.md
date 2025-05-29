@@ -44,7 +44,7 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=andi-mache&theme=github_dark&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=andi-mache&theme=onestar&margin-w=14)
 
 ----------
 
@@ -62,7 +62,7 @@
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=andi-mache&limit=6&theme=merko&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=andi-mache&limit=6&theme=github_dark&combine_all_yearly_contributions=true)
 
 ----------
 
