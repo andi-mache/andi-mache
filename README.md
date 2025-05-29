@@ -1,4 +1,9 @@
 
+https://pixel-profile-ui.vercel.app/api/github-stats?username=imhalid&screen_effect=true&include_all_commits=true&pixelate_avatar=true&background=linear-gradient%28120deg%2C+%23165a4cFF+8%25%2C+%23e83b3bFF+100%25%29+&color=%23ffffffFF
+
+----------
+
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Adrian+Mache!;" />
 </h1>
